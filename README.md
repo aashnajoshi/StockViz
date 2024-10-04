@@ -1,4 +1,4 @@
-# Data-Analysis-and-Visualization
+# StockViz
 This project analyzes and visualizes stock price data for Microsoft (MSFT) and Salesforce (CRM) over the last year, using data sourced from Yahoo Finance.
 
 ## Features
