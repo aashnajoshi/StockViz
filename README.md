@@ -25,5 +25,5 @@ streamlit run app.py
 
 ## Description about various files:
 - **app.py:** Contains a streamlit-based version of the main code. 
-- **stock_price.py:** Main script for fetching and visualizing stock price data.
 - **requirements.txt:** File containing all required Python modules.
+- **stock_price.py:** Main script for fetching and visualizing stock price data.
