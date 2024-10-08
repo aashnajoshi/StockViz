@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ### While to run the code:
 #### Console-based version:
 ```bash
-python stock_price.py
+python main.py
 ```
 
 #### Streamlit-based version:
