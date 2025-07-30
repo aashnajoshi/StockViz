@@ -1,5 +1,5 @@
 # StockViz
-This project analyzes and visualizes stock price data for Microsoft (MSFT) and Salesforce (CRM) over the last year, using data sourced from Yahoo Finance.
+StockViz analyzes and visualizes stock price data for Microsoft (MSFT) and Salesforce (CRM) over the past year, using data from Yahoo Finance. It features interactive Plotly graphs and allows users to select date ranges for viewing historical data.
 
 ## Features
 - Fetches stock price data for MSFT and CRM.
